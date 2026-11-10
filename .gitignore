@@ -1,0 +1,22 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node (if you later add build tools, npm packages, etc.)
+node_modules/
+package-lock.json
+dist/
+build/
+
+# Env files (if you ever add any API keys/secrets)
+.env
